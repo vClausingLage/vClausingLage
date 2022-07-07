@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vClausingLage
 - 👀 I’m interested in coding | literature | flying
 - 🌱 I’m currently learning the Italian language
-- 💞️ I’m looking to collaborate on x
 - 📫 You reach me on Twitter
 
 <!---
