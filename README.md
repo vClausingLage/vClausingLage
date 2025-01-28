@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding | literature | flying
 - 💻 working as a Backend Web Developer
   - PHP: Symfony, Silverstripe, Magento
-  - JS/TS: Node, Express, React, React Router
+  - JS/TS: Deno, Node, Express, React, React Router
   - Go
   - Mysql, Postgres, MongoDB
 <!---
