@@ -5,6 +5,7 @@
   - JS/TS: Deno, Node, Express, React, React Router
   - Go
   - Mysql, Postgres, MongoDB
+  - Meilisearch, openAi
 <!---
 vClausingLage/vClausingLage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
