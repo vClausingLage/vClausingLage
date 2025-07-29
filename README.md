@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vClausingLage
-- 👀 I’m interested in coding | literature | flying
+- 👀 I’m interested in 💻 coding | 🕮 literature | ✈ flying
 - 💻 working as a Backend Web Developer
   - PHP: Symfony, Silverstripe, Magento
-  - JS/TS: Deno, Node, Express, React, React Router
+  - JS/TS: Deno, Node, Express, NextJS, React, React Router, Payload
   - Go
   - 🖫 Mysql, Postgres, MongoDB
   - 🛠 Meilisearch, openAi, Docker
