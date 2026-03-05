@@ -4,7 +4,7 @@
   - PHP: Symfony, Silverstripe, Magento
   - JS/TS: Deno, Node, Express, Next, React, Payload
   - Go
-  - c++, sdl3
+  - 🎮 PhaserJS, c++, SDL3, Unity, c#, Blender
   - 🖫 Mysql, Postgres, MongoDB
   - 🛠 Meilisearch, openAi, Docker
 <!---
